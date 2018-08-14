@@ -1,0 +1,5 @@
+2018-06-01 23:15:03,145 - Log4j_Demo_Class -DEBUG - This is debug
+2018-06-01 23:15:03,186 - Log4j_Demo_Class -INFO - This is info
+2018-06-01 23:15:03,186 - Log4j_Demo_Class -WARN - This is warning
+2018-06-01 23:15:03,186 - Log4j_Demo_Class -FATAL - This is fatal
+2018-06-01 23:15:03,187 - Log4j_Demo_Class -ERROR - This is error
